@@ -110,4 +110,5 @@ or [Linkedin](https://www.linkedin.com/company/18509340)
 ### License
 
 [MIT](https://github.com/epicmaxco/vuestic-admin/blob/master/LICENSE) license.
+
 # front-end-emails
